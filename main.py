@@ -1,6 +1,6 @@
 """
 Taking inspiration from Porth by Tsoding
-Latest: https://gitlab.com/tsoding/porth/
+Latest (go check it out!): https://gitlab.com/tsoding/porth/
 I'm looking through: https://github.com/tsoding/porth/blob/a6ddbe8f65c3a155932ca34217ceccee6b88b931/porth.py
 
 Also thank you to the countless assembly websites I've read.

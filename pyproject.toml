@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "nasm-brainf-compiler"
 version = "0.1.0"
-description = "Compiles Brainf*** code into NASM and links it."
+description = "Compiles Brainf*** code into NASM assembly and links it to create an executable."
 authors = ["Joey Lent (Supercolbat) <supercolbat@gmail.com>"]
 
 [tool.poetry.dependencies]
