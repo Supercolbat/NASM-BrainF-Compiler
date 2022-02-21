@@ -1,2 +1,6 @@
 poetry.lock
+__pycache__/
+venv/
+.replit
+replit.nix
 tmp/
